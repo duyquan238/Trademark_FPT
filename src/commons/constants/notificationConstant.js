@@ -1,0 +1,5 @@
+export const ALL_NOTI_REQUEST = "ALL_NOTI_REQUEST";
+export const ALL_NOTI_SUCCESS = "ALL_NOTI_SUCCESS";
+export const ALL_NOTI_FAIL = "ALL_NOTI_FAIL";
+
+export const CLEAR_ERRORS = "CLEAR_ERRORS";
